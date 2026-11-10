@@ -207,6 +207,11 @@ tempCodeRunnerFile.py
 
 # Ruff stuff:
 .ruff_cache/
+.svelte-kit/
+node_modules/
+frontend/build/
+frontend/.vite/
+*.tsbuildinfo
 
 # PyPI configuration file
 .pypirc
